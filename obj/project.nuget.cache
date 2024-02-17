@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "s6iDAOXfHCCiIqEN0XuZC71F/KCWl1xqq/HxCUaTqhDOhenvO6pugmtQjSbnuLC5qSGjFy+oV4iy5SfpHT+7KQ==",
+  "success": true,
+  "projectFilePath": "E:\\_CoreMVC\\TemporalBox\\TemporalBox\\TemporalBox.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pawan\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\8.0.2\\microsoft.aspnetcore.jsonpatch.8.0.2.nupkg.sha512",
+    "C:\\Users\\pawan\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\8.0.2\\microsoft.aspnetcore.mvc.newtonsoftjson.8.0.2.nupkg.sha512",
+    "C:\\Users\\pawan\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\pawan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\pawan\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
