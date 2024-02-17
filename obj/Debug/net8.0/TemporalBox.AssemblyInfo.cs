@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TemporalBox")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d55ece6f68b830da4bbc5ceb6951e7c250907183")]
 [assembly: System.Reflection.AssemblyProductAttribute("TemporalBox")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TemporalBox")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

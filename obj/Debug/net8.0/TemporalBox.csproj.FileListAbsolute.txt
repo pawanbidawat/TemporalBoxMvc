@@ -34,3 +34,4 @@ E:\_CoreMVC\TemporalBox\TemporalBox\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Ne
 E:\_CoreMVC\TemporalBox\TemporalBox\bin\Debug\net8.0\Newtonsoft.Json.dll
 E:\_CoreMVC\TemporalBox\TemporalBox\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
 E:\_CoreMVC\TemporalBox\TemporalBox\obj\Debug\net8.0\TemporalBox.csproj.CopyComplete
+E:\_CoreMVC\TemporalBox\TemporalBox\obj\Debug\net8.0\TemporalBox.sourcelink.json
